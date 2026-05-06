@@ -1,4 +1,4 @@
 # MIS581
-Capstone Research Project
+## Capstone Research Project
 
 Here you will find relevant files for the MIS581 Capstone Research Project.
