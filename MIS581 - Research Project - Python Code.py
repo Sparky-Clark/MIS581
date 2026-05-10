@@ -49,7 +49,7 @@ axes[0].set_xlabel('Age in Years')
 axes[0].set_ylabel('Frequency')
 axes[0].grid(True, linestyle='--', alpha=0.6)
 
-# Length of Stay (LOS) histogram formatting/parameters
+## Length of Stay (LOS) histogram formatting/parameters
 axes[1].hist(df['los_days_capped'], bins=30, color='green', edgecolor='black')
 axes[1].set_title('Length of Stay Distribution')
 axes[1].set_xlabel('LOS Days')
